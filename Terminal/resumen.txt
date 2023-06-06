@@ -1,0 +1,7 @@
+5 Comandos Aprendidos en Clase
+
+1.PWD: visuliza la carpeta donde me encuentro situado
+2. cd: chance directory: comando utilizado para cambiar de directrios
+3. mkdir: comando utilizado para crear carpetas
+4. rmdir: comando utilizado para borrar carpetas 
+5. touch: comando utilizado para crear archivos 

@@ -1,0 +1,5 @@
+3 Partes Internas de la computadora
+ 
+1. Procesador 
+2. Memoria Ram 
+3. motherBoard
