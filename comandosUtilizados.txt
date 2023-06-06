@@ -1,0 +1,44 @@
+Comandos utilizados 
+
+  521  mkdir 2023junio05MelissaGuerra
+  522  cd 2023junio05MelissaGuerra/
+  523  git init
+  524  git remote add origin https://github.com/meguecha07/2023junio05MelissaGuerra.git
+  525  git remote
+  526  touch comandos.txt main.js index.html
+  527  git add .
+  528  git commit -m "commit 01 de Melissa Guerra"
+  529  git push origin main
+  530  git branch feature01
+  531  git checkout feature01
+  532  mkdir Terminal Hardware
+  533  touch Terminal/resumen.txt Hardware/resumen.txt
+  534  git status
+  535  git add .
+  536  git commit -m "commit 01 rama feature de Melissa Guerra"
+  537  git push origin feature01
+  538  git branch feature02
+  539  git checkout feature02
+  540  cd Terminal/
+  541  nano resumen.txt
+  542  cat resumen.txt
+  543  cd ..
+  544  cd Hardware/
+  545  nano resumen.txt
+  546  cat resumen.txt
+  547  git status
+  548  git add .
+  549  cd ..
+  550  git status
+  551  git add .
+  552  git status
+  553  git commit -m "git commit 03 feature02 de Melissa Guerra"
+  554  git push origin feature02
+  555  git checkout main
+  556  ls
+  557  mv comandos.txt comandosUtilizados.txt
+  558  ls
+  559  nano comandosUtilizados.txt
+  560  history
+  
+
